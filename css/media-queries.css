@@ -1,0 +1,126 @@
+﻿@media (max-width: 800px) 
+{
+    .home-features-overview .feature-group
+    {
+        height: 180px;
+        margin-bottom: 40px;
+        margin-top: 0;
+        width: 90%;
+    }   
+    .home-features-overview .feature-group .text {
+        height: 80px;
+        padding-left: 180px;
+    }       
+    .top-section-wrapper
+    {
+        float: none;
+    }
+    .home-features-overview
+    {
+        display:none;     
+    }
+    .another-content-box
+    {
+
+        width: auto;
+            margin-top: 10px;
+      
+    }    
+    .feature-group span.title {
+        font-size: 14px;
+    }
+    .feature-group span.detail {
+        font-size: 12px;
+    }    
+}
+
+@media (max-width: 600px) {
+	h1 { font-size: 40px; padding: 1px; line-height: 120%; }
+	h2 { font-size: 13px; padding: 1px; }
+	body { font-size: 13px; }
+    div.contentbox
+    {
+        width: 50%;
+    }	
+    #wrapper
+    { 
+        width: 95%;
+    }   
+    .home-features-overview .feature-group
+    {
+        height: 180px;
+        margin-bottom: 40px;
+        margin-top: 0;
+        width: 90%;
+    }   
+    .home-features-overview .feature-group .text {
+        height: 80px;
+        padding-left: 180px;
+    }       
+    .top-section-wrapper
+    {
+        float: none;
+    }
+    .home-features-overview
+    {
+        display:none;            
+    }
+    .another-content-box
+    {
+
+        width: auto;
+            margin-top: 10px;
+      
+    }    
+}
+
+@media (max-width: 400px) {
+    div.contentbox
+    {
+        width: 100%;
+    }	
+    nav ul { margin: 0; padding: 0; list-style-type:none;  }
+    nav ul li {float:none; display: block;}    
+    nav a { color: #F9F9F9; display: block; float: none; padding: 10px; }   
+    #wrapper
+    { 
+        width: 100%;
+    }    
+    .home-features-overview .feature-group
+    {
+        height: 180px;
+        margin-bottom: 40px;
+        margin-top: 0;
+        width: 350px;
+    }   
+    .home-features-overview .feature-group .text {
+        height: 80px;
+        padding-left: 180px;
+    }
+        .top-section-wrapper
+    {
+        float: none;
+    }
+    .home-features-overview
+    {
+        display:none;     
+    }
+    .another-content-box
+    {
+
+        width: auto;
+            margin-top: 10px;
+      
+    } 
+    
+}
+
+@media (min-width: 1300px) {
+
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
